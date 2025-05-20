@@ -1,0 +1,11 @@
+﻿global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Text;
+global using System.Threading.Tasks;
+global using System.Threading;
+global using DownloadQueueManagerDemo.Domain;
+global using DownloadQueueManagerDemo.Enums;
+global using DownloadQueueManagerDemo.Utils;
+global using DownloadQueueManagerDemo.Services;
+global using DownloadQueueManagerDemo.Application;
